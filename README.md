@@ -9,7 +9,7 @@
 - 🔗 LinkedIn: https:www.linkedin.com/in/trọng-quý-0282283b9
 
 ---
-
+ Fun fact I like AI tools a lot, and im fine doing anything
 ### 🛠 Languages and Tools:
 
 
