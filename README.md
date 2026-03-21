@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋, I'm Trong Quy
 
-<!--
-**trongquy1811/trongquy1811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A Data / AI Enthusiast from Vietnam 🇻🇳
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning: Python, Machine Learning, Spring Boot
+- 🤝 I’m looking for: Data Analyst / AI Intern
+- 💬 Ask me about: Python, Data Analysis
+- 📫 How to reach me: trongquyy1811@gmail.com
+- 🔗 LinkedIn: https:www.linkedin.com/in/trọng-quý-0282283b9
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Languages and Tools:
+- Python, R, SQL,C,C++,R
+- Pandas, NumPy, Scikit-learn
+- Git
