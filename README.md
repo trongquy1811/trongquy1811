@@ -11,8 +11,27 @@
 ---
 
 ### 🛠 Languages and Tools:
-### 🛠 Languages and Tools:
-<img src="https://skillicons.dev/icons?i=python,r,mysql,git" />
 
-### 📚 Libraries & Frameworks:
-- Pandas, NumPy, Scikit-learn
+<a href="https://www.python.org" title="Python">
+  <img src="https://skillicons.dev/icons?i=python" height="40"/>
+</a>
+
+<a href="https://www.r-project.org" title="R">
+  <img src="https://skillicons.dev/icons?i=r" height="40"/>
+</a>
+
+<a href="https://isocpp.org" title="C++">
+  <img src="https://skillicons.dev/icons?i=cpp" height="40"/>
+</a>
+
+<a href="https://www.microsoft.com/en-us/sql-server" title="Microsoft SQL Server">
+  <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
+</a>
+
+<a href="https://opencv.org" title="OpenCV">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40"/>
+</a>
+
+<a href="https://code.visualstudio.com" title="VS Code">
+  <img src="https://skillicons.dev/icons?i=vscode" height="40"/>
+</a>
