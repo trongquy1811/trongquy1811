@@ -11,6 +11,8 @@
 ---
 
 ### 🛠 Languages and Tools:
-- Python, R, SQL,C,C++,R
+### 🛠 Languages and Tools:
+<img src="https://skillicons.dev/icons?i=python,r,mysql,git" />
+
+### 📚 Libraries & Frameworks:
 - Pandas, NumPy, Scikit-learn
-- Git
